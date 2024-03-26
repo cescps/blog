@@ -1,0 +1,8 @@
+p::selection {
+	background-color: red;
+	background-image: linear-gradient(to right, blue, red);
+}
+
+.underline-link {
+      text-decoration: underline;
+    }
